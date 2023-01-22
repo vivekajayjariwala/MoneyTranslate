@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MoneyTranslate/static/css/main.dc257780.css",
+    "main.js": "/MoneyTranslate/static/js/main.a3135cc8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/MoneyTranslate/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/MoneyTranslate/index.html",
+    "main.dc257780.css.map": "/MoneyTranslate/static/css/main.dc257780.css.map",
+    "main.a3135cc8.js.map": "/MoneyTranslate/static/js/main.a3135cc8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/MoneyTranslate/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc257780.css",
+    "static/js/main.a3135cc8.js"
+  ]
+}
